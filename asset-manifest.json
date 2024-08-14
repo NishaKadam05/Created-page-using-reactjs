@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Created-page-using-reactjs/static/css/main.2165e119.css",
+    "main.js": "/Created-page-using-reactjs/static/js/main.99634aae.js",
+    "static/media/logo.png": "/Created-page-using-reactjs/static/media/logo.393f8de6a420c47591f7.png",
+    "index.html": "/Created-page-using-reactjs/index.html",
+    "main.2165e119.css.map": "/Created-page-using-reactjs/static/css/main.2165e119.css.map",
+    "main.99634aae.js.map": "/Created-page-using-reactjs/static/js/main.99634aae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2165e119.css",
+    "static/js/main.99634aae.js"
+  ]
+}
